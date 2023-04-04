@@ -3,3 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.slider-input{
+    display: none;
+    opacity: 0;
+    visibility: hidden;
+}
