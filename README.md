@@ -1,2 +1,2 @@
 ## Slider
-#### A responsive website using only html, css
+#### A responsive slider using only html, css
