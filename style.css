@@ -76,3 +76,23 @@
 #slider-input-4:checked ~ .slider-body{
     background: url(./images/4.jpg) no-repeat center top/cover;
 }
+
+
+@media (max-width: 992px) {
+    .slider-label{
+        height: 1000px;
+    }
+}
+@media (max-width: 670px) {
+    .slider-tabs{
+        padding-bottom: 80px;
+        gap: 8px;
+    }
+    .slider-label{
+        border-radius: 8px;
+        height: 60px;
+    }
+    .slider-img{
+        border-radius: 4px;
+    }
+}
